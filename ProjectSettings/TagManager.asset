@@ -38,15 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: backgroung
+    uniqueID: 1296401643
+    locked: 0
+  - name: ladder
+    uniqueID: 209494527
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: New Layer
-    uniqueID: 1296401643
-    locked: 0
-  - name: New Layer
+  - name: foreground
     uniqueID: 1658610921
-    locked: 0
-  - name: New Layer
-    uniqueID: 209494527
     locked: 0
